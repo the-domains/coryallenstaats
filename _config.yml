@@ -1,0 +1,28 @@
+name: Cory Allen Staats
+favicon: null
+layout_spectrum: 0.9681196701712906
+typography_spectrum: 0.29721077741123736
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2009282000362873
+  lightness: 0.6353638833388686
+  saturation: 0.0024192864075303078
+  rhythmicContrast: 0.23132559494115412
+purpose: []
